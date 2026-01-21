@@ -1,16 +1,40 @@
-## Hi there 👋
+# Braian
 
-<!--
-**grefo1/grefo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer en formación, con experiencia previa en el ámbito de la salud (enfermería).  
+Enfocado en el desarrollo de APIs, lógica de negocio y diseño de backend claro, mantenible y escalable.
 
-Here are some ideas to get you started:
+Aprendo construyendo proyectos reales y priorizando fundamentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Actualmente
+- Desarrollo de API REST con Node.js, Express y TypeScript
+- Implementación de CRUD con MySQL
+- Autenticación y control de acceso
+- Organización de proyectos backend
+- Consumo y prueba de endpoints con Postman
+
+---
+
+## Stack técnico
+- Lenguajes: TypeScript, JavaScript
+- Backend: Node.js, Express
+- Base de datos: MySQL
+- Herramientas: Git, GitHub, Postman
+- Entorno: Linux
+
+---
+
+## Proyectos
+- Registro de Pacientes (API REST)  
+  Backend para gestión de pacientes con operaciones CRUD, persistencia en base de datos relacional y estructura modular.  
+  Estado: en desarrollo
+
+---
+
+## GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=grefo1&show_icons=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grefo1&layout=compact)
+
+---
