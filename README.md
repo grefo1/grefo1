@@ -1,6 +1,6 @@
-# Braian
+# Braian Emanuel Zandona.
 
-Backend developer en formación, con experiencia previa en el ámbito de la salud (enfermería).  
+Backend developer en formación, con experiencia previa en el ámbito de la salud.  
 Enfocado en el desarrollo de APIs, lógica de negocio y diseño de backend claro, mantenible y escalable.
 
 Aprendo construyendo proyectos reales y priorizando fundamentos.
@@ -21,7 +21,7 @@ Aprendo construyendo proyectos reales y priorizando fundamentos.
 - Backend: Node.js, Express
 - Base de datos: MySQL
 - Herramientas: Git, GitHub, Postman
-- Entorno: Linux
+- Entorno: Linux, Windows
 
 ---
 
