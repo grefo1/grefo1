@@ -12,12 +12,12 @@ Aprendo construyendo proyectos reales y priorizando fundamentos.
 - Implementación de CRUD con MySQL
 - Autenticación y control de acceso
 - Organización de proyectos backend
-- Consumo y prueba de endpoints con Postman
+- Consumo y prueba de endpoints
 
 ---
 
 ## Stack técnico
-- Lenguajes: TypeScript, JavaScript
+- Lenguajes: TypeScript, JavaScript, Python
 - Backend: Node.js, Express
 - Base de datos: MySQL
 - Herramientas: Git, GitHub, Postman
