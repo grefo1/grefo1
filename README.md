@@ -33,7 +33,6 @@ Aprendo construyendo proyectos reales y priorizando fundamentos.
 ---
 
 ## GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=grefo1&show_icons=true)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grefo1&layout=compact)
 
