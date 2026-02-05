@@ -20,7 +20,7 @@ Aprendo construyendo proyectos reales y priorizando fundamentos.
 - Lenguajes: TypeScript, JavaScript, Python
 - Backend: Node.js, Express
 - Base de datos: MySQL
-- Herramientas: Git, GitHub, Postman
+- Herramientas: Git, GitHub, Postman, Docker
 - Entorno: Linux, Windows
 
 ---
