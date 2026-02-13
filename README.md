@@ -8,21 +8,21 @@ Aprendo construyendo proyectos reales y priorizando fundamentos.
 ---
 
 ## Actualmente
-- Desarrollo de API REST con Node.js, Express y TypeScript
-- Implementación de CRUD con MySQL
-- Autenticación y control de acceso
-- Organización de proyectos backend
-- Consumo y prueba de endpoints
+- Desarrollo de API REST con Node.js, Express y TypeScript.
+- Implementación de CRUD con MySQL.
+- Autenticación y control de acceso.
+- Organización de proyectos backend.
+- Consumo y prueba de endpoints.
 
 ---
 
 ## Stack técnico
-- Lenguajes: TypeScript, JavaScript, Python
-- Backend: Node.js, Express
-- Base de datos: MySQL
-- Herramientas: Git, GitHub, Postman, Docker
-- Entorno: Linux, Windows
-
+- Lenguajes: TypeScript, JavaScript, Python.
+- Backend: Node.js, Express.
+- Base de datos: MySQL.
+- Herramientas: Git, GitHub, Postman, Docker.
+- Entorno: Linux, Windows.
+- 
 ---
 
 ## Proyectos
